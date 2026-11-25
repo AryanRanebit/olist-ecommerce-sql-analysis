@@ -1,0 +1,6 @@
+delivery_bucket,reviews,pct_of_reviews,avg_review_score
+on time or early,88653,92.01,4.29
+1-7 days late,4428,4.6,3.18
+8-14 days late,1758,1.82,1.75
+15-30 days late,1169,1.21,1.62
+over 30 days late,345,0.36,2.02
